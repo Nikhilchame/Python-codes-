@@ -1,1 +1,1 @@
-print ("Ego")
+print ("College")
